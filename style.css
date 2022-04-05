@@ -1,0 +1,16 @@
+.mercedes-benz {
+  width: 400px;
+  height: 400px;
+  border-style: solid;
+  border-radius: 300px;
+}
+
+.circle {
+  fill: #fff;
+  stroke: rgb(134, 229, 229);
+  stroke-width: 20px;
+}
+
+.h1 {
+  text-shadow: 5px 5px 10px rgb(74, 74, 74);
+}
